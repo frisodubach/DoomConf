@@ -1,0 +1,15 @@
+/*
+!/.config
+/.config/*
+!.config/doom
+!.config/fish
+!.config/albert/albert.conf
+!.config/albert/org.albert.frontend.qmlboxmodel/style_properties.ini
+
+!/Pictures
+/Pictures/*
+!Pictures/Wallpapers
+/Pictures/Wallpapers/*
+!Pictures/Wallpapers/Digital
+!Pictures/Wallpapers/Photography
+!Picutres/Wallpapers/wallhavenGruvbox
