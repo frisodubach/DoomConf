@@ -10,6 +10,7 @@
 ;(package! some-package)
 
 (package! org-appear)
+;; (package! elfeed-goodies)
 
 ;;(use-package org-bullets
 ;;  :config

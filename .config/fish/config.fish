@@ -1,3 +1,1 @@
-if status is-interactive
-    # Commands to run in interactive sessions can go here
-end
+/nix/store/56f0ihn87rpxy2l1wdjfwvqmc5cksgh0-home-manager-files/.config/fish/config.fish
