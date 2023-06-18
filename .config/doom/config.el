@@ -157,6 +157,15 @@
 ;;Attached stored w/ Org-files
 (setq org-attach-id-dir "attachments/")
 
+;; Browser Configuration
+;; (setq browse-url-browser-function 'browse-url-generic
+;;      browse-url-generic-program "librewolf") ;; Set default generic browser to be librewolf
+(setq browse-url-generic-program "librewolf")
+(setq browse-url-browser-fucntion 'eww-browse-url) ;; Set default browser to be eww
+
+;; EWW minimal rendering by default
+(setq-default shr-inhibit-images t)   ; toggle with `I`
+(setq-default shr-use-fonts t)      ; toggle with `F`
 
 ;; Elfeed configuration
 ;;(require 'elfeed-org)
@@ -173,11 +182,3 @@
 ;; Keybindings to open article in external browse-url-generic (librewolf) browser
 (evil-define-key 'normal elfeed-show-mode-map
   (kbd "g e") '(lambda () (interactive) (elfeed-show-visit t))) ;; Create lambda function to handle argument, make interactive to have command
-
-;; Browser configuration
-(setq browse-url-browser-fucntion 'eww-browse-url) ;; Set default browser to be eww
-(setq browse-url-generic-program "librewolf") ;; Set default generic browser to be librewolf
-
-;; EWW minimal rendering by default
-(setq-default shr-inhibit-images t)   ; toggle with `I`
-(setq-default shr-use-fonts t)      ; toggle with `F`
