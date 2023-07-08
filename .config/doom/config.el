@@ -21,7 +21,7 @@
 ;; See 'C-h v doom-font' for documentation and more examples of what they
 ;; accept. For example:
 ;;
-(setq doom-font (font-spec :family "JetBrains Mono" :size 14 :weight 'semi-light)
+(setq doom-font (font-spec :family "FiraCode" :size 14 :weight 'semi-light)
       doom-variable-pitch-font (font-spec :family "Overpass" :size 16)) ;Overpass okay, but want better font.
 ;;
 ;; If you or Emacs can't find your font, use 'M-x describe-font' to look them
@@ -161,7 +161,7 @@
 ;; (setq browse-url-browser-function 'browse-url-generic
 ;;      browse-url-generic-program "librewolf") ;; Set default generic browser to be librewolf
 (setq browse-url-generic-program "librewolf")
-(setq browse-url-browser-fucntion 'eww-browse-url) ;; Set default browser to be eww
+(setq browse-url-browser-function 'eww-browse-url) ;; Set default browser to be eww
 
 ;; EWW minimal rendering by default
 (setq-default shr-inhibit-images t)   ; toggle with `I`
