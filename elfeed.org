@@ -1,0 +1,61 @@
+#+title: Elfeed
+
+* RSS :elfeed:
+** Finance :finance:
+*** Blogs :blog:
+**** [[https://blog.dshr.org/feeds/posts/default][DSHR]]
+**** [[https://www.bitsaboutmoney.com/archive/rss][Bits About Money]]
+**** [[https://www.kalzumeus.com/feed/articles/][Kalzumeus]]
+**** [[https://www.thediff.co/rss][The Diff]]
+** Tech :tech:
+*** Crypto :crypto:
+**** [[https://davidgerard.co.uk/blockchain/feed/][David Gerard]] :blog:top:
+**** [[https://www.web3isgoinggreat.com/feed.xml][Web3IsGoingGreat]]
+**** [[https://blog.mollywhite.net/feed.xml][Molly White]] :blog:
+**** [[https://www.amycastor.com/rss/][Amy Castor]] :blog:
+**** [[https://www.stephendiehl.com/feed.rss][Stephen Diehl]] :blog:
+**** [[https://www.tante.cc/rss/][tante]] :blog:top:
+*** Linux :linux:
+**** [[https://determinate.systems/feed.rss][Determinate Systems]] :nix:
+*** Emacs :emacs:
+*** Low-tech :lowtech:
+**** [[https://solar.lowtechmagazine.com/feeds/all-en.atom.xml][Low-tech magazine]] :top:
+**** [[https://feeds2.feedburner.com/NoTechMagazine][No Tech Magazine]]
+*** Blogs :blog:
+**** [[https://xeiaso.net/blog.rss][XeIaso]] :top:
+**** [[https://ludic.mataroa.blog/rss/][Ludicity]] :top:
+*** Privacy
+**** [[https://www.edwardsnowden.substack.com/feed][Continuing Ed]] :blog:
+**** [[https://nusenu.medium.com/feed][Nusenu]] :blog:
+** Politics :politics:
+*** Anarchism :anarchism:
+*** Leftism :leftism:
+**** [[https://populamedia.wpengine.com/feed/][Popula]]
+**** [[https://www.ftm.eu/feed/][FollowTheMoney]]
+*** Activism :activism:
+**** [[https://www.erininthemorning.com/][ErinInTheMorning]] :trans:
+*** US :us:
+**** [[https://prospect.org/api/rss/all.rss][The American Prospect]]
+**** [[https://www.politico.com/rss/][Politico]]
+**** [[https://feeds.thedailybeast.com/rss/articles][The Daily Beast]]
+** News :news:
+*** Netherlands :nl:
+*** Taiwan :tw:
+**** [[https://newbloommag.net/feed/][NewBloomMag]] :top:
+**** [[https://www.taiwangazette.org/news?format=rss][Taiwan Gazette]]
+**** [[https://www.ketagalanmedia.com/feed][Ketagalan Media]]
+**** [[https://frozengarlic.wordpress.com/feed][Frozen Garlic]] :blog:top:
+**** [[https://nomanisanis.land/feed][No Man is an Island]] :blog:top:
+*** US :us:
+*** International :int:
+**** [[https://www.bellingcat.com/rss/][bellingcat]]
+** Semiconductor :semi:
+*** [[https://www.fabricatedknowledge.com/feed/][Fabircated Knowledge]]
+*** [[https://www.semianalysis.com/feed/][SemiAnalysis]]
+*** [[https://asianometry.substack.com/feed/][Asianometry Newsletter]] :top:
+*** [[https://www.angstronomics.com/feed][Angstromomics]]
+** Blogs :blog:
+*** Misc
+** Youtube :yt:
+*** Politics
+*** Misc
